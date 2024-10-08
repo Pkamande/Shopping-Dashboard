@@ -1,0 +1,7 @@
+venv/
+.vscode/
+# Python Cache
+__pycache__/
+
+# Virtual Environment
+venvor/
